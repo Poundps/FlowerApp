@@ -1,0 +1,6 @@
+tensorflow==2.3.0
+Pillow==7.2.0
+gunicorn>=19.7.1
+flask
+redis==2.10.5
+flask-cors
