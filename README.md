@@ -15,8 +15,11 @@ $ docker service create --name front-end --replicas 3 -p 80:80 --network flower_
 
 
 Group members
+
 Soravit varanich 6022791626
+
 Krittiya Picha 6022791659
+
 Sibpakonpas Thongpiam 6022792632 
 
 
